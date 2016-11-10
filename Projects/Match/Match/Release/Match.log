@@ -1,0 +1,21 @@
+﻿  match.c
+match.c(6): error C2057: expected constant expression
+match.c(6): error C2466: cannot allocate an array of constant size 0
+match.c(6): error C2087: 'table': missing subscript
+match.c(6): error C2133: 'table': unknown size
+match.c(63): error C2057: expected constant expression
+match.c(63): error C2466: cannot allocate an array of constant size 0
+match.c(63): error C2133: 'selectX': unknown size
+match.c(63): error C2133: 'selectY': unknown size
+match.c(63): error C2087: 'table': missing subscript
+match.c(63): error C2133: 'table': unknown size
+match.c(133): error C2057: expected constant expression
+match.c(133): error C2466: cannot allocate an array of constant size 0
+match.c(133): error C2133: 'x': unknown size
+match.c(133): error C2133: 'y': unknown size
+match.c(134): error C2057: expected constant expression
+match.c(134): error C2466: cannot allocate an array of constant size 0
+match.c(134): error C2133: 'shortlist': unknown size
+match.c(195): error C2057: expected constant expression
+match.c(195): error C2466: cannot allocate an array of constant size 0
+match.c(195): error C2133: 'buildShortlistTable': unknown size
