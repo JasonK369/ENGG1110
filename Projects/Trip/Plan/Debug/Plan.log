@@ -1,0 +1,5 @@
+﻿  plan.c
+c:\users\jasonxkotori\desktop\plan\plan\plan.c(100): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\jasonxkotori\desktop\plan\plan\plan.c(108): warning C4013: 'exit' undefined; assuming extern returning int
+  Plan.vcxproj -> C:\Users\JasonxKotori\Desktop\Plan\Debug\Plan.exe
+  Plan.vcxproj -> C:\Users\JasonxKotori\Desktop\Plan\Debug\Plan.pdb (Full PDB)
